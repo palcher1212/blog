@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:palcher1212/palcher1212.github.io.git
+	branch = main
